@@ -12,7 +12,7 @@ A React portfolio app connected to a custom Express and MongoDB backend API.
 - **Backend API Integration:** Reads projects and skills data dynamically from MongoDB.
 - **Search & Filter:** Search projects by title and filter by technology.
 - **Contact Form:** Working EmailJS message integration.
-- **Responsive Design:** Built with Bootstrap.
+- **Responsive Design:** Built with Bootstrap and Bootstrap Icons.
 
 ## Run Locally
 
